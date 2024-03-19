@@ -16,4 +16,6 @@ jobs:
     - name: Run a script
       run: |
         echo "Hello, GitHub Actions!"
+        echo "Hello, This is Bala Actions!"
         # Add your commands or scripts here
+        
